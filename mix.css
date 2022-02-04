@@ -1,3 +1,12 @@
+
+/* Imports */
+@import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css");
+@import url("https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+
 #app-mount .app-2CXKsg::before {
     content: "Your version of Ultra is outdated. Please download the newest version from source";
     display: var(--version1_0_5, block);
